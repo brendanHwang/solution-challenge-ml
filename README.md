@@ -2,12 +2,6 @@
 
 This project uses machine learning models to perform prediction and inference tasks. The structure of the project is as follows:
 
-.
-├── inference_web_cam.ipynb
-├── prediction.ipynb
-├── sc_ml_20.ipynb
-└── sc_ml_30.ipynb
-
 ## How to use
 
 - **Main model learning**: Run the `sc_ml_20.ipynb` file to learn the main model.
